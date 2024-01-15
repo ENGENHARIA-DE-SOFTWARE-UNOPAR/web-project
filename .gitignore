@@ -1,0 +1,27 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+
+
+# Adicionado aqui para baixo
+
+
+*.docx
+*.exe
+*.win
+*.dev
+*.o
+*.layout
+*.gz
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.loa
+*.lof
+*.lot
+*.gnuplot
+*.gz
