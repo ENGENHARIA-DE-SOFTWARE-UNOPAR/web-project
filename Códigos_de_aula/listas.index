@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Listas em HTML</title>
+  </head>
+  <body>
+
+    <h3>Listas ordenadas</h3>
+    <p>
+      Trabalhando com listas ordenadas e não ordenadas. <br>
+      As <i><u> Ordered Lists</u></i> são as Listas Ordenadas e as <i><u>Unordered Lists</u></i> são as listas não ordenadas. <br>
+      <ol>
+        <! isso é um comentário >
+        <li>Item 1</li>
+        <li>Item 2</li>
+      </ol>
+
+
+      <ul>
+        <li>Lista 1</li>
+        <li>Lista 2</li>
+      </ul>
+    </p>
+
+  </body>
+</html>
