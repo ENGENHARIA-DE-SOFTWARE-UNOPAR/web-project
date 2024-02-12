@@ -13,3 +13,7 @@
 
  <a href="https://buy.stripe.com/test_14k5lPbFNfLx2hGdQQ">coffe</a> <br/>
 </p>
+
+
+
+[Ferramenta para validação de sites](https://jsfiddle.net)
