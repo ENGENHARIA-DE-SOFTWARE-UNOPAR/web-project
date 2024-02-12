@@ -6,5 +6,5 @@
 
 <h4> Anotações de percursos </h4>
 
-- [] Aula 1 - falta SP2 <br>
-- [] Aula 2 <br>
+- [ ] Aula 1 - falta SP2 <br>
+- [ ] Aula 2 <br>
