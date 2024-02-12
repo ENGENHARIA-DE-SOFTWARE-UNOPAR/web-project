@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>Tabelas</title>
+  </head>
+  <body>
+    <h3>Para uso de tabelas</h3>
+    <p color="blue">
+      <table>
+        <tr>
+          <th>ORD</th>
+          <th>Produto</th>
+          <th>Valor</th>
+        </tr>
+        <tr>
+          <th>1</th>
+          <th>Chocolate</th>
+          <th>4,98</th>
+        </tr>
+      </table>
+
+    </p>
+  </body>
+</html>
