@@ -14,12 +14,15 @@
         <! isso é um comentário >
         <li>Item 1</li>
         <li>Item 2</li>
+        <li>&copy;</li>
+        <li>&reg;</li>
       </ol>
 
 
       <ul>
-        <li>Lista 1</li>
+        <li>&lt;Lista 1&gt;</li>
         <li>Lista 2</li>
+        <li>&trade;</li>
       </ul>
     </p>
 

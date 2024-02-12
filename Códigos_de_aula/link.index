@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-bt" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Uso de link</title>
+  </head>
+  <body>
+
+    <a href="https://pypi.org/project/pyCandleMAB/" target="_blank">O uso de Link</a>
+
+  </body>
+</html>
