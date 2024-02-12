@@ -2,9 +2,18 @@
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Para uso de audio em páginas</title>
   </head>
   <body>
+    <h3>Audios</h3>
+    <p>
+      A utilização de audio em páginas é cada vez mais utilizado, para tal possui um exemplo de uso. <br>
 
+      <audio src="http://developer.mozilla.org/@api/deki/files/2926=AudioTest_(1).ogg" controls>
+        Note o atributio no final da tag.
+      </audio>
+
+
+    </p>
   </body>
 </html>
