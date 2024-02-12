@@ -9,11 +9,12 @@
     <p>
       A utilização de audio em páginas é cada vez mais utilizado, para tal possui um exemplo de uso. <br>
 
-      <audio src="http://developer.mozilla.org/@api/deki/files/2926=AudioTest_(1).ogg" controls>
+      <audio src="https://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg" controls>
         Note o atributio no final da tag.
       </audio>
-
-
+    </p>
+    <p>
+      É possivél manipular os audios em HTML5.
     </p>
   </body>
 </html>
