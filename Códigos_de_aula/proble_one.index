@@ -7,8 +7,8 @@
   <body id="principal">
     <header id="cabechalho">
       <h1>Cursos</h1>
-      <img src="img/logo.png" width="30%" height="30%">
-
+      <img src="img/logo.png" width="70%" height="70%" alt="com %">
+      <img src="img/logo.png" width="320px" height="320px" alt="com px">
 
   </body>
 </html>
