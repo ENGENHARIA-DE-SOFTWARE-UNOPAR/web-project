@@ -7,6 +7,9 @@
   <body>
 
     <a href="https://pypi.org/project/pyCandleMAB/" target="_blank">O uso de Link</a>
+    <br>
 
+    Para uso de Progresso
+    <progress value="70" max="100">0%</progress>
   </body>
 </html>
