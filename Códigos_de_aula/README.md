@@ -4,5 +4,5 @@
 
 <p> Falta a criação da SP2 da primeira aula </p>
 
--[ ] Aula 1 <br>
+-[x] Aula 1 <br>
 -[ ] Aula 2 <br>
