@@ -9,14 +9,14 @@
     <p color="blue">
       <table>
         <tr>
-          <th>ORD</th>
+          <th color="blue">ORD</th>
           <th>Produto</th>
           <th>Valor</th>
         </tr>
         <tr>
-          <th>1</th>
-          <th>Chocolate</th>
-          <th>4,98</th>
+          <td>1</td>
+          <td>Chocolate</td>
+          <td>4,98</td>
         </tr>
       </table>
 
