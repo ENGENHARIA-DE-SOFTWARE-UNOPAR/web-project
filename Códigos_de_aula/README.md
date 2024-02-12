@@ -2,7 +2,7 @@
 
 
 
-<p> Falta a criação da SP2 da primeira aula </p>
+
 
 <h4> Anotações de percursos </h4>
 
