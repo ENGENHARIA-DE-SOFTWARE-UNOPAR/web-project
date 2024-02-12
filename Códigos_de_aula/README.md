@@ -4,5 +4,7 @@
 
 <p> Falta a criação da SP2 da primeira aula </p>
 
-- [] Aula 1 <br>
+<h4> Anotações de percursos </h4>
+
+- [] Aula 1 - falta SP2 <br>
 - [] Aula 2 <br>
