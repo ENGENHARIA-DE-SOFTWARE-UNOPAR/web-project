@@ -5,7 +5,7 @@
 
 
 <h4> Progresso das Aulas </h4>
-
+<progress value="25" max="100">0</progress>
 - [x] Aula 1 <br>
 - [ ] Aula 2 <br>
 - [ ] Aula 3 <br>
