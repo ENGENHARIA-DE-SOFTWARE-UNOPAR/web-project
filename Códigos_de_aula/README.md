@@ -6,7 +6,7 @@
 
 <h4> Progresso das Aulas </h4>
 
-![progress](https://progress-bar.dev/28/ "progresso") <br>
+![progress](https://progress-bar.dev/25/ "progresso") <br>
 
 - [x] Aula 1 <br>
 - [ ] Aula 2 <br>
