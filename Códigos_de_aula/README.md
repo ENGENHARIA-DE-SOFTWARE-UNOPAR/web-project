@@ -5,14 +5,16 @@
 
 
 <h4> Progresso das Aulas </h4>
-<progress value="25" max="100">0</progress>
+
+<progress value="25" max="100">0</progress> <br>
+
 - [x] Aula 1 <br>
 - [ ] Aula 2 <br>
 - [ ] Aula 3 <br>
 - [ ] Aula 4 <br>
 <h4> Progresso dos conteudos WEB </h4>
 
-- [x] CW1
-- [ ] CW2
-- [ ] CW3
-- [ ] CW4
+- [x] CW1 <br>
+- [ ] CW2 <br>
+- [ ] CW3 <br>
+- [ ] CW4 <br>
