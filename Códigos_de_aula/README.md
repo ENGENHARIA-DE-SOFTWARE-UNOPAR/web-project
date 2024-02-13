@@ -14,7 +14,9 @@
 - [ ] Aula 4 <br>
 
 <h4> Progresso dos conteudos WEB </h4>
-![progress](https://progress-bar.dev/25/ "progresso") <br>
+
+![d](https://progress-bar.dev/25/ "progresso") <br>
+
 - [x] CW1 <br>
 - [ ] CW2 <br>
 - [ ] CW3 <br>
