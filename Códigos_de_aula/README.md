@@ -1,12 +1,18 @@
-<h2> Cada aula foi criado um arquivo separado com o nome.index </h2>
+<h2> Cada conteudo foi criado um arquivo separado com o nome_do _conteudo.index </h2>
+
+<h3> Anotações Aleatorias </h3>
 
 
 
-
-
-<h4> Anotações de percursos </h4>
+<h4> Progresso das Aulas </h4>
 
 - [x] Aula 1 <br>
 - [ ] Aula 2 <br>
 - [ ] Aula 3 <br>
 - [ ] Aula 4 <br>
+<h4> Progresso dos conteudos WEB </h4>
+
+- [x] CW1
+- [ ] CW2
+- [ ] CW3
+- [ ] CW4
