@@ -1,5 +1,10 @@
+/* Isso é um comentario */
 nav#Menu ul{
     list-style: none;
     text-transform: uppercase;
 
+}
+
+nav#Menu li{
+    display: inline-block;
 }
