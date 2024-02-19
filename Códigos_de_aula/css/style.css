@@ -1,20 +1,22 @@
+@charset "UTF-8";
 /* Isso é um comentario */
 
-/* nav#Menu ul{
+nav#Menu ul{
     list-style: none;
     text-transform: uppercase;
     border-radius: 10px;
-    /*border: 1px solid rgba(0, 0, 0, .3);
-    border-color: brown;*/
+    border: 1px solid rgba(0, 0, 0, .3);
+    border-color: brown;
+    text-align: right;
     
-/*}*/
+}
 
-/*nav#Menu li{
+nav#Menu li{
     display: inline-block;
     font-size: 12px;
-    /*background-color: aqua;*/
+    background-color: aqua;
 
-/*}*/
+}
 
 /* Formatação dos paragrafos */ 
 p{
