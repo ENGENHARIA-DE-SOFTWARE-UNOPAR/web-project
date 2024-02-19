@@ -20,7 +20,7 @@ O menu suspenso deve apresentar a um minimo de interação para que fique agrad�
 ## Anotações
 
 >[!WARNING]
-> O CSS e um estilo em cascata, portanto cuide das hierarquias.
+> O CSS e um estilo em cascata, portanto cuide das hierarquias.<br>
 > ```#p``` Aplica estilo a um __elemento__ com um identificador (id). <br>
 > ```.p``` Aplica estilo a uma __classe__, que pode abrigar varios elementos. <br>
 > ```p``` Aplica estilo a __todos os eleentos__ de uma página conforme o seu tipo. <br>
