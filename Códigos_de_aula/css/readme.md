@@ -17,8 +17,12 @@ O menu suspenso deve apresentar a um minimo de interação para que fique agrad�
 > Não poderá esquecer de remover os hiperlinks do menus.
 
 
-### Anotações
+## Anotações
 - Alterações constante da tag ```<p>```
 >[!NOTE]
 > ```<p style="text-align: hustify"> Qualquer texto </p>```
 
+- Seletor do css ```ccs
+body {
+    background color: rgba(255, 0, 0, 0.5);
+} ```
