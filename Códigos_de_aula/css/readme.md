@@ -18,11 +18,15 @@ O menu suspenso deve apresentar a um minimo de interação para que fique agrad�
 
 
 ## Anotações
+
+>[!WARNING]
+> O CSS e um estilo em cascata, portanto cuide das hierarquias.
+
 - Alterações constante da tag ```<p>```
 >[!NOTE]
 > ```<p style="text-align: hustify"> Qualquer texto </p>```
 
-- Seletor do css ```ccs
+- Seletor do css ```
 body {
     background color: rgba(255, 0, 0, 0.5);
 } ```
