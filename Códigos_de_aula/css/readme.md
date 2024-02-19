@@ -33,3 +33,8 @@ O menu suspenso deve apresentar a um minimo de interação para que fique agrad�
 body {
     background color: rgba(255, 0, 0, 0.5);
 } ```
+
+> [!NOTE]
+> ```*``` Seletor universal: ```* { Color: BLUE }```, aplica a toda a página a cor __AZUL__<br>
+> Pseudoclasses ```a:focus``` quando esta em foco<br>
+> Pseudoclasse ```a:visited```` Quando já foi visitado<br>
