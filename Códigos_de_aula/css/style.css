@@ -2,9 +2,36 @@
 nav#Menu ul{
     list-style: none;
     text-transform: uppercase;
-
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, .3);
+    border-color: brown;
+    
 }
 
 nav#Menu li{
     display: inline-block;
+    font-size: 12px;
+    background-color: aqua;
+
 }
+
+/* Formatação dos paragrafos */ 
+p{
+    color: black;
+    text-align: justify;
+    size: 20pt;
+    text-indent: 50px;
+}
+
+/* Cor de fundo*/ 
+body{
+    background-color: gray;
+    background-image: url(C:\Users\AULA-1\Documents\(Engenharia de Software)\Fase 4\Programação Web\web-project\Códigos_de_aula\img\);
+}
+
+/* Configuração de todo página*/
+
+*{
+    margin: 0px;
+}
+
