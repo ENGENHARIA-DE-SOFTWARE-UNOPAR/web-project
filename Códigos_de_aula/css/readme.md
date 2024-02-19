@@ -36,5 +36,5 @@ body {
 
 > [!NOTE]
 > ```*``` Seletor universal: ```* { Color: BLUE }```, aplica a toda a página a cor __AZUL__<br>
-> Pseudoclasses ```a:focus``` quando esta em foco<br>
-> Pseudoclasse ```a:visited```` Quando já foi visitado<br>
+> Pseudoclasses ```a:focus``` Quando esta em um __link__ em foco<br>
+> Pseudoclasse ```a:visited```` Quando um __link__ já foi visitado<br>
