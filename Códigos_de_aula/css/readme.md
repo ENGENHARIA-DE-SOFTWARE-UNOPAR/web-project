@@ -18,6 +18,6 @@ O menu suspenso deve apresentar a um minimo de interação para que fique agrad�
 
 
 ### Anotaçãoes
-- Alterações constante da tag ```<p>
+- Alterações constante da tag ```<p>```
 
 
