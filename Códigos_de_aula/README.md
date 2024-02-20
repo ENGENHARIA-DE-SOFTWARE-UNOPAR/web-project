@@ -6,7 +6,7 @@
 
 <h4> Progresso das Aulas </h4>
 
-![progress](https://progress-bar.dev/25/ "progresso") <br>
+![progress](https://progress-bar.dev/50/ "progresso") <br>
 
 - [x] Aula 1 <br>
 - [x] Aula 2 <br>
@@ -15,9 +15,14 @@
 
 <h4> Progresso dos conteudos WEB </h4>
 
-![d](https://progress-bar.dev/25/ "progresso") <br>
+![d](https://progress-bar.dev/50/ "progresso") <br>
 
 - [x] CW1 <br>
-- [ ] CW2 <br>
+- [x] CW2 <br>
 - [ ] CW3 <br>
 - [ ] CW4 <br>
+
+<h4 style="color: red"> Avaliações Virtuais</h4>
+
+- [ ] AV1 <br>
+- [ ] AV2 <br>
