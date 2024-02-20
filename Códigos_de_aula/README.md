@@ -9,7 +9,7 @@
 ![progress](https://progress-bar.dev/25/ "progresso") <br>
 
 - [x] Aula 1 <br>
-- [ ] Aula 2 <br>
+- [x] Aula 2 <br>
 - [ ] Aula 3 <br>
 - [ ] Aula 4 <br>
 
