@@ -1,13 +1,13 @@
 @charset "UTF-8";
 /* Isso é um comentario */
 table{
-    border-collapse: collapse;
+    border-collapse: collapse;/*Remove o espaçamento entre as celulas*/
 }
 
 th{
     border: 1px solid #ccc;
     padding: 9px;
-    background-color: silver;
+    background-color: silver; /*Cor de fundo do cabechalho*/
 }
 td{
     border: 1px solid #ccc;
