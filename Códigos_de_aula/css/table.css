@@ -1,2 +1,17 @@
 @charset "UTF-8";
 /* Isso é um comentario */
+table{
+    border-collapse: collapse;
+}
+
+th{
+    border: 1px solid #ccc;
+    padding: 9px;
+    background-color: silver;
+}
+td{
+    border: 1px solid #ccc;
+    padding: 9px;
+    text-align: center;
+    border-left: ;
+}
