@@ -24,5 +24,5 @@
 
 <h4 style="color: red"> Avaliações Virtuais</h4>
 
-- [] AV1 <br>
-- [] AV2 <br>
+- [ ] AV1 <br>
+- [ ] AV2 <br>
