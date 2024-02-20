@@ -18,6 +18,6 @@
 ![d](https://progress-bar.dev/25/ "progresso") <br>
 
 - [x] CW1 <br>
-- [ ] CW2 <br>
+- [x] CW2 <br>
 - [ ] CW3 <br>
 - [ ] CW4 <br>
