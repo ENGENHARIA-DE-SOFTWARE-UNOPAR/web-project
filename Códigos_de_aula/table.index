@@ -2,14 +2,15 @@
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
-    <title>Tabelas</title>
+    <link rel="stylesheet" type="text/css" href="css/table.css">
+    <title>Tabelas de clientes</title>
   </head>
   <body>
+    <br><br>
     <h3>Para uso de tabelas</h3>
-    <p color="blue">
-      <table>
+    <table>
         <tr>
-          <th color="blue">ORD</th>
+          <th>ORD</th>
           <th>Produto</th>
           <th>Valor</th>
         </tr>
@@ -18,8 +19,6 @@
           <td>Chocolate</td>
           <td>4,98</td>
         </tr>
-      </table>
-
-    </p>
+     </table>
   </body>
 </html>
