@@ -21,3 +21,8 @@
 - [x] CW2 <br>
 - [ ] CW3 <br>
 - [ ] CW4 <br>
+
+<h4 style="color: red"> Avaliações Virtuais</h4>
+
+- [] AV1 <br>
+- [] AV2 <br>
