@@ -36,3 +36,8 @@ Linguagem tipada
 * < Menor que
 * >= Maior ou igual
 * <= Menor ou igual
+
+### Eventos
+* onclick: usuário clica em um elemento;
+* onchange: mudança em elemento HTML;
+* onload: Página é carregada;
