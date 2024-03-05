@@ -1,5 +1,5 @@
 # JavaScript 
-
+Linguagem tipada 
 ### Tipos de dados em JS
 * Primitivos
 * Boolean
@@ -24,6 +24,15 @@
 ### Operadores lógicos
 * && AND (E)
 * || OR (OU)
-* ! (NOT) Negação 
+* ! NOT (Negação) 
 
-### Seguindo ...
+
+### Operadores relacionais
+* == igual
+* === igual ou do mesmo tipo
+* != Diferente
+* !== Diferente e de tipos diferentes
+* > Maior que
+* < Menor que
+* >= Maior ou igual
+* <= Menor ou igual
