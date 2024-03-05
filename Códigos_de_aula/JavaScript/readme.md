@@ -19,3 +19,11 @@
 * ** Raiz quadrada
 * / divisão
 * % mod
+* e Outros
+
+### Operadores lógicos
+* && AND (E)
+* || OR (OU)
+* ! (NOT) Negação 
+
+### Seguindo ...
