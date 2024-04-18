@@ -4,25 +4,40 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/formulario.css" type="css/text">
     <title>Formulario</title>
+    <script>
+      function envia(){
+        var nome = document.getElementById("IDnome");
+
+        if (nome.value != ""){
+          window.alert("Obrigado " + nome.value + ", os dados foram enviados")
+        }
+      }
+
+    </script>
+
   </head>
   <body>
-    <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-7-square-fill" viewBox="0 0 16 16">
-      <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm3.37 5.11V4.001h5.308V5.15L7.42 12H6.025l3.317-6.82v-.07H5.369Z"/>
-    </svg></p>
+    
+    <h4>Fale conosco</h4>
+
     <form class="" action="" method="post">
-      <p>
+      <div>
+        <label>Nome</label>
+        <input type="text" id="IDnome" placeholder="Nome aqui">
+      </div></br>
+      <div>             
         <label for="email">E-mail:</label>
         <input type="email" name="" id="email" placeholder="exemplo@exemplo.com">
         <!-- <span>Por exemplo seunome@dominio.com</span> -->
-      </p>
-      <p>
+      </div></br>
+      <div>
         <label for="subject">Assunto</label>
         <input type="text" id="subject" required>
-      </p>
-      <p>
+      </div></br>
+      <div>
         <label for="content">Menssagem</label>
         <textarea id="content">Olá gostaria de</textarea>
-      </p>
+      </div></br>
       <button type="button" name="button">Enviar</button>
     </form>
   </body>
