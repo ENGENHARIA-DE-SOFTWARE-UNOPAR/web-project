@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* Isso é um comentario */
+
+nav#Menu ul{
+    list-style: none; /*Remove os marcadores no inicio da lista não ordenada*/
+    text-transform: uppercase; /*Transforma em o texto em caixa alta*/
+    position: absolute;/*Deixa o menu solto (fica acima do texto)*/
+    top: 10px;
+    left: 800px;
+  
+}
+
+nav#Menu li{
+    display: inline-block;/*deixar na mesma linha*/
+    font-size: 14px;
+    background-color: rgba(150, 40, 0, .4);
+    padding: 5px;
+}
+
+nav#Menu h3{
+    display: none; /*Não mostra na página*/
+
+}
+
+nav#Menu li:hover{
+    background-color: #604050;/Passar o mouse por cima do texto*/
+}
+
+nav#Menu a{
+    color: #000000;
+    text-decoration: none;
+    
+}
+
+/* Formatação dos paragrafos */ 
+p{
+    color: black;
+    text-align: justify;
+    size: 20pt;
+    text-indent: 50px;
+}
+
+/* Cor de fundo*/ 
+body{
+   /* background-color: gray;*/
+    background-image: url(C:/Users/AULA-1/Documents/(Engenharia de Software)/Fase 4/Programação Web/web-project/Códigos_de_aula/img/logo.png);
+}
+
+/* Configuração de todo página*/
+
+*{
+    margin: 0px;
+    background-color: antiquewhite;
+}
