@@ -14,10 +14,32 @@
     include("menu.php");
     include("session.php");
 
-    if (isset($_GET["success"])){
-        echo
-
-
+    if (isset($_GET["success"])) {
+        echo "<br>
+            <div class='alert alert-success' role='alert'>
+            Usuário cadastrado com sucesso!
+        </div>";
     }
+    ?>
+    <div class="conteiner">
+    <label></label>
+        <form class="form" method="POST" action="insert-usuario.php" enctype="multipart/form-data">
+            <label>Nome:</label>
+                <input type="file" class="from-control" name="nome" placeholder="Nome"/>
+            
+            <label>Foto de Perfil:</label>
+                <input type="file" name="foto" class="from-control">
+            
+            <label>E-mail:</label>
+                <input type="email" class="from-control" name="email" placeholder="Email"/>
+            
+            <label>Senha:</label>
+                <input type="password" class="from-control" name="senha" placeholder="Senha"/>
+
+            <button type="submit" class="btn btn-primary"> Cadastrar</button>
+        </form>
+    </div>
+
+
 </body>
 </html>
