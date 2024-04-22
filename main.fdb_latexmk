@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1713269303.35964 "main.aux" "main.bbl" "main" 1713269552.85735 0
+["bibtex main"] 1713790151.95048 "main.aux" "main.bbl" "main" 1713790486.24018 0
   "./text/ref.bib" 1706105193 1194 4106db7c929c4c6c84a6725b1b59f175 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bib/abntex2/abntex2-options.bib" 1543103229 5396 4eb260dac60f150ae608d45252853090 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bst/abntex2/abntex2-alf.bst" 1543103230 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "main.aux" 1713269550 3249 7af2932eb0ec99786ae734dde33b60df "pdflatex"
+  "main.aux" 1713790484 3496 fbfc38298721602a760af7d3ab1531b0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1713269544.54147 "main.tex" "main.pdf" "main" 1713269552.85804 0
+["pdflatex"] 1713790481.78406 "main.tex" "main.pdf" "main" 1713790486.2408 0
   "C:/Users/AULA-1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712759051 84145 9fc26e7f8cb803b75a82d41f3fb3cd9d ""
   "C:/Users/AULA-1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1684243667 23189211 ab02659d3f7cbf2af15b568c3b990d90 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -17,6 +17,8 @@
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136783054 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb8r.tfm" 1136783054 4524 6bce29db5bc272ba5f332261583fee9c ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb8t.tfm" 1136783054 6880 f19b8995b61c334d78fc734065f6b4d4 ""
+  "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmbi8r.tfm" 1136783054 4480 10409ed8bab5aea9ec9a78028b763919 ""
+  "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmbi8t.tfm" 1136783054 6784 37b32cc10800b5afa030d935c393695a ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr8r.tfm" 1136783054 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr8t.tfm" 1136783054 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmri7t.tfm" 1136783054 2288 f478fc8fed18759effb59f3dad7f3084 ""
@@ -41,10 +43,12 @@
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb" 1136846148 45758 19968a0990191524e34e1994d4a31cb6 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb" 1136864148 44729 fea0975e20ec51c992338362f05f1146 ""
+  "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb" 1136864148 44656 0cbca70e0534538582128f6b54593cca ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb" 1136864148 46026 687528a208fbfc1f00832bb96cccebbb ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb" 1136864148 45458 504e2b06fa82109d168c7a0afb09e145 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/courier/pcrr8t.vf" 1136765053 2184 8475af1b9cfa983db5f46f5ed4b8f9f7 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmb8t.vf" 1136783054 2340 df9c920cc5688ebbf16a93f45ce7bdd3 ""
+  "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmbi8t.vf" 1136783054 2324 51908dae6e03953a90119973962f0e4d ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmr8t.vf" 1136783054 2348 91706c542228501c410c266421fbe30c ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/vf/adobe/times/ptmri8t.vf" 1136783054 2328 6cd7df782b09b29cfc4d93e55b6b9a59 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -311,15 +315,16 @@
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
   "cod/main.c" 1705325076 1403 56251558970ef5e1acd921d9ca54bf29 ""
+  "figure/Spring Initializr.pdf" 1713788509 89729 37875595bd1bf521c4a713fe01c01d91 ""
   "figure/logo-png-unopar.png" 1705325076 36548 e9b5242e9db32f6ad65a879f4ac5251b ""
   "figure/placeholder.jpg" 1705325076 21439 174d1d09fe1b5f15f427ea8411fe2a21 ""
-  "main.aux" 1713269550 3249 7af2932eb0ec99786ae734dde33b60df "pdflatex"
-  "main.bbl" 1713269303 1401 09f1e8079d7c7ae6e2a3376f466be425 "bibtex main"
-  "main.out" 1713269550 369 a29584b67648fbf7a9127cf5b9123a9d "pdflatex"
+  "main.aux" 1713790484 3496 fbfc38298721602a760af7d3ab1531b0 "pdflatex"
+  "main.bbl" 1713790152 1401 09f1e8079d7c7ae6e2a3376f466be425 "bibtex main"
+  "main.out" 1713790484 369 a29584b67648fbf7a9127cf5b9123a9d "pdflatex"
   "main.tex" 1706101904 511 97a1edcd3b31dffdf87e30afd5068fff ""
-  "main.toc" 1713269550 326 f70ac4794165e87891fd159eb72c35e5 "pdflatex"
+  "main.toc" 1713790484 326 160a74dd380c90b735f61ca88c3d8d39 "pdflatex"
   "structure/report.tex" 1705325076 6579 bb660c29b69ad676bf0d9f3e5bd15d4c ""
-  "text/write.tex" 1713269542 2378 613c1a8780be515ff36a8a7ffb268240 ""
+  "text/write.tex" 1713790481 3169 bcb6fca28b8fef9dc0c30504521e4255 ""
   "your_data.tex" 1706101888 934 5eaa9bdd19bc7f3b4eac28e700bcc4f3 ""
   (generated)
   "main.aux"
