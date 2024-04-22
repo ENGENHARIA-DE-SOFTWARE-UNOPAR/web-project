@@ -923,6 +923,12 @@ INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang2.
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang2.sty
 INPUT .\cod\main.c
 INPUT cod\main.c
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1pcr.fd
@@ -934,12 +940,6 @@ INPUT cod\main.c
 INPUT .\cod\main.c
 INPUT cod\main.c
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
