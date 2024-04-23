@@ -35,7 +35,7 @@
 
 \subsection{Erro: novo usuário}
 
-\par No roteiro da aula prática sugere a implementação do método \textbf{run}, da forma como esta exposto na listagem \ref{cod:userErro}. Na linha 19 e 20 na criação de um novo usuário é indicado o primeiro campo como \textit{\textbf{null}} 
+\par No roteiro da aula prática sugere a implementação do método \textbf{run}, da forma como esta exposto na listagem \ref{cod:userErro}. Na linha 19 e 20 na criação de um novo usuário é indicado o primeiro campo como \textit{\textbf{null}}, porém o mesmo não é aceito, conforme documentação.
 
 \begin{figure}[H]
   \lstinputlisting[language=java, caption={Erro: novo usuário}, label={cod:userErro}]{errorUser.java} %Busca os codigos na pasta /cod
@@ -43,9 +43,23 @@
     {\fontsize{10pt}{\baselineskip}\selectfont  Fonte: O autor (\the\year) }
 \end{figure}
 
+\par Na figura \ref{fig:sugconstrutor}, a IDE monstra o que é esperado pelo construtor.
+
+\begin{figure}[H]
+  \caption{Argumentos demonstra o que o construtor \textit{User} espera.}
+  \includegraphics[scale=0.8]{figure/user_jaova.png}
+  \label{fig:sugconstrutor}
+  \flushleft %esquerda
+  {\fontsize{10pt}{\baselineskip}\selectfont  Fonte: O autor (\the\year) }
+\end{figure}
+\par Desta forma, o código foi alterado para o que esta na listagem \ref{cod:user}.
 
 
-%\lstinputlisting[language=php, caption={código externo}, label={cod:externo}]{main.c} %Busca os codigos na pasta /cod
+\begin{figure}[H]
+  \lstinputlisting[language=Java, firstline=18, lastline=20, caption={Construtor \textit{User}, alterado}, label={cod:user}]{TestConfig.java} %Busca os codigos na pasta /cod
+  \flushleft %esquerda
+  {\fontsize{10pt}{\baselineskip}\selectfont  Fonte: O autor (\the\year) }
+\end{figure}
 
 
 
