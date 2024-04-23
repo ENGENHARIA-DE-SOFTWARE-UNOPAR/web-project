@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1713881723.05555 "main.aux" "main.bbl" "main" 1713881897.49194 0
+["bibtex main"] 1713882096.01905 "main.aux" "main.bbl" "main" 1713882100.95795 0
   "./text/ref.bib" 1706105193 1194 4106db7c929c4c6c84a6725b1b59f175 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bib/abntex2/abntex2-options.bib" 1543103229 5396 4eb260dac60f150ae608d45252853090 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bst/abntex2/abntex2-alf.bst" 1543103230 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "main.aux" 1713881895 4193 fd57b48615a1ef1a9b1797238c4ca3db "pdflatex"
+  "main.aux" 1713882099 4189 817faa30069429ba7ea02029b538e8f6 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1713881892.71553 "main.tex" "main.pdf" "main" 1713881897.49264 0
+["pdflatex"] 1713882096.33695 "main.tex" "main.pdf" "main" 1713882100.95861 0
   "C:/Users/AULA-1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712759051 84145 9fc26e7f8cb803b75a82d41f3fb3cd9d ""
   "C:/Users/AULA-1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1684243667 23189211 ab02659d3f7cbf2af15b568c3b990d90 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -319,13 +319,13 @@
   "figure/logo-png-unopar.png" 1705325076 36548 e9b5242e9db32f6ad65a879f4ac5251b ""
   "figure/placeholder.jpg" 1705325076 21439 174d1d09fe1b5f15f427ea8411fe2a21 ""
   "figure/user_jaova.png" 1713880498 24470 3cf3c7097795db32db9a21bf7a860887 ""
-  "main.aux" 1713881895 4193 fd57b48615a1ef1a9b1797238c4ca3db "pdflatex"
-  "main.bbl" 1713881723 1401 09f1e8079d7c7ae6e2a3376f466be425 "bibtex main"
-  "main.out" 1713881895 525 593be3bfe45a802a8154a4c6f9326674 "pdflatex"
-  "main.tex" 1706101904 511 97a1edcd3b31dffdf87e30afd5068fff ""
-  "main.toc" 1713881895 411 7bf139952074b59e362ee6a6a9d90b17 "pdflatex"
+  "main.aux" 1713882099 4189 817faa30069429ba7ea02029b538e8f6 "pdflatex"
+  "main.bbl" 1713882096 1401 09f1e8079d7c7ae6e2a3376f466be425 "bibtex main"
+  "main.out" 1713882099 525 593be3bfe45a802a8154a4c6f9326674 "pdflatex"
+  "main.tex" 1713882030 511 97a1edcd3b31dffdf87e30afd5068fff ""
+  "main.toc" 1713882099 411 7bf139952074b59e362ee6a6a9d90b17 "pdflatex"
   "structure/report.tex" 1705325076 6579 bb660c29b69ad676bf0d9f3e5bd15d4c ""
-  "text/write.tex" 1713881892 4774 0e8546a586e1e321f23c5674d2be087c ""
+  "text/write.tex" 1713882038 4773 adebe1b7a28608339c0cd8aede8ee477 ""
   "your_data.tex" 1706101888 934 5eaa9bdd19bc7f3b4eac28e700bcc4f3 ""
   (generated)
   "main.aux"
