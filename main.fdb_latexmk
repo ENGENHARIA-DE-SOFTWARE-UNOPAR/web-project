@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1713792823.74284 "main.aux" "main.bbl" "main" 1713794505.6977 0
+["bibtex main"] 1713880201.56686 "main.aux" "main.bbl" "main" 1713880285.46795 0
   "./text/ref.bib" 1706105193 1194 4106db7c929c4c6c84a6725b1b59f175 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bib/abntex2/abntex2-options.bib" 1543103229 5396 4eb260dac60f150ae608d45252853090 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bst/abntex2/abntex2-alf.bst" 1543103230 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "main.aux" 1713794504 3496 28a1cae84c997608f894594215e00d8f "pdflatex"
+  "main.aux" 1713880283 3640 1423559da40d2fbf49f6ca181558401a "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1713794500.95602 "main.tex" "main.pdf" "main" 1713794505.69835 0
+["pdflatex"] 1713880280.8828 "main.tex" "main.pdf" "main" 1713880285.46861 0
   "C:/Users/AULA-1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712759051 84145 9fc26e7f8cb803b75a82d41f3fb3cd9d ""
   "C:/Users/AULA-1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1684243667 23189211 ab02659d3f7cbf2af15b568c3b990d90 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -244,7 +244,6 @@
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.cfg" 1679057124 1829 d8258b7d94f5f955e70c623e525f9f45 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.sty" 1698333840 80959 d6d414c8cee61dedbc92bed595bb2a9d ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang1.sty" 1679057124 205154 31132370016e8c97e49bc3862419679b ""
-  "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang2.sty" 1679057124 93648 37f37f89a55d35f95036cd331d48114f ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc.sty" 1679057124 77021 d05e9115c67855816136d82929db8892 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/mathtools/mathtools.sty" 1656514886 62269 5c1837a5bc5db4c0d255eedc225ca44b ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/mathtools/mhsetup.sty" 1656514886 5582 a43dedf8e5ec418356f1e9dfe5d29fc3 ""
@@ -314,17 +313,17 @@
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "cod/main.c" 1705325076 1403 56251558970ef5e1acd921d9ca54bf29 ""
+  "cod/errorUser.java" 1713880032 781 a17e5d98bb94c7c7dfc075cdd81d25c1 ""
   "figure/Spring Initializr.pdf" 1713788509 89729 37875595bd1bf521c4a713fe01c01d91 ""
   "figure/logo-png-unopar.png" 1705325076 36548 e9b5242e9db32f6ad65a879f4ac5251b ""
   "figure/placeholder.jpg" 1705325076 21439 174d1d09fe1b5f15f427ea8411fe2a21 ""
-  "main.aux" 1713794504 3496 28a1cae84c997608f894594215e00d8f "pdflatex"
-  "main.bbl" 1713792824 1401 09f1e8079d7c7ae6e2a3376f466be425 "bibtex main"
-  "main.out" 1713794504 369 a29584b67648fbf7a9127cf5b9123a9d "pdflatex"
+  "main.aux" 1713880283 3640 1423559da40d2fbf49f6ca181558401a "pdflatex"
+  "main.bbl" 1713880201 1401 09f1e8079d7c7ae6e2a3376f466be425 "bibtex main"
+  "main.out" 1713880283 525 593be3bfe45a802a8154a4c6f9326674 "pdflatex"
   "main.tex" 1706101904 511 97a1edcd3b31dffdf87e30afd5068fff ""
-  "main.toc" 1713794504 326 5a75a1ff8f4b06a32ccac1901be8cbd5 "pdflatex"
+  "main.toc" 1713880283 411 72e1cec9333908dec00b5b70e8efce3d "pdflatex"
   "structure/report.tex" 1705325076 6579 bb660c29b69ad676bf0d9f3e5bd15d4c ""
-  "text/write.tex" 1713794500 3493 c17990f4808bffa4eb990eb093089df4 ""
+  "text/write.tex" 1713880280 4062 3182016649d98edde15779a48465acb2 ""
   "your_data.tex" 1706101888 934 5eaa9bdd19bc7f3b4eac28e700bcc4f3 ""
   (generated)
   "main.aux"
