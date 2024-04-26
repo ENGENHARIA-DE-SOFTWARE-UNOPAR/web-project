@@ -898,28 +898,42 @@ INPUT .\text\write.tex
 INPUT .\text\write.tex
 INPUT text\write.tex
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8t.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
+INPUT .\figure\postman_vscode.png
+INPUT .\figure\postman_vscode.png
+INPUT figure\postman_vscode.png
+INPUT .\figure\postman_vscode.png
+INPUT .\figure\postman_vscode.png
+INPUT .\figure\postman_vscode.png
+INPUT .\figure\postman_vscode.png
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8t.tfm
 INPUT .\figure\Spring Initializr.pdf
 INPUT .\figure\Spring Initializr.pdf
 INPUT figure\Spring Initializr.pdf
 INPUT .\figure\Spring Initializr.pdf
 INPUT .\figure\Spring Initializr.pdf
 INPUT .\figure\Spring Initializr.pdf
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi8t.vf
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbi8t.vf
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
+INPUT .\figure\resultado da compilação.png
+INPUT .\figure\resultado da compilação.png
+INPUT figure\resultado da compilação.png
+INPUT .\figure\resultado da compilação.png
+INPUT .\figure\resultado da compilação.png
+INPUT .\figure\resultado da compilação.png
+INPUT .\figure\resultado da compilação.png
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
@@ -937,6 +951,8 @@ INPUT cod\errorUser.java
 INPUT .\cod\errorUser.java
 INPUT cod\errorUser.java
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\figure\user_jaova.png
 INPUT .\figure\user_jaova.png
 INPUT figure\user_jaova.png
@@ -944,18 +960,16 @@ INPUT .\figure\user_jaova.png
 INPUT .\figure\user_jaova.png
 INPUT .\figure\user_jaova.png
 INPUT .\figure\user_jaova.png
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
-INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT .\cod\TestConfig.java
+INPUT cod\TestConfig.java
+INPUT .\cod\TestConfig.java
+INPUT cod\TestConfig.java
+INPUT .\cod\TestConfig.java
+INPUT cod\TestConfig.java
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\courier\pcrr8t.vf
 INPUT C:\Users\AULA-1\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\courier\pcrr8r.tfm
-INPUT .\cod\TestConfig.java
-INPUT cod\TestConfig.java
-INPUT .\cod\TestConfig.java
-INPUT cod\TestConfig.java
-INPUT .\cod\TestConfig.java
-INPUT cod\TestConfig.java
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT .\main.bbl

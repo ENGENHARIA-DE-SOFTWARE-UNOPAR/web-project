@@ -9,7 +9,18 @@
 
 \section{Métodos}
 \par Para esta aula prática foi proposto um roteiro, está disposto em: \href {https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/web-project/blob/main/Roteiro%20aula%20pr%C3%A1tica.pdf} {roteiro da aula prática}. De igual modo cria-se um repositório no GitHub para o versionamento da referiada aula prática, e que pode ser acessado atráves deste \href {https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR/web-project} {link}.
-\par Neste vies foi eleito o modelo de relatórios em \textbf{LaTeX} para relatórios, pois o mesmo acaba automatizando alguns aspectos. Nos aspectos da realização de atividade foi sugerido a utilização da IDE \text{Eclipse}, a instalação do \text{Postman} e como opcional o \text{Git}.
+\par Neste vies foi eleito o modelo de relatórios em \textbf{LaTeX}, pois o mesmo acaba automatizando alguns aspectos. Nos aspectos da realização de atividade foi sugerido a utilização da IDE \textbf{Eclipse}, a instalação do \textbf{}{Postman} e como opcional o \textbf{Git}. Porém opto pela utilização da IDE \textbf{VS Code}, pois a mesma já vem integrado \textit{plugin} do \textbf{Postmam}, conforme demonsstra a figura \ref{fig:pos}.
+
+\begin{figure}[H]
+\center
+  \caption{Plugin do Postman na IDE vscode.}
+  \includegraphics[scale=0.45]{figure/postman_vscode.png}
+  \label{fig:pos}
+  \flushleft %esquerda
+    {\fontsize{10pt}{\baselineskip}\selectfont
+    Fonte: O autor (\the\year) }
+\end{figure}
+
 \par Sugere a criação de um modelo pré configurado através da ferramenta \textit{\textbf{Spring initialir}}, e a pré configuração foi definida conforme demontrada na figura \ref{fig:spring}. a versão do \textit{Spring} definida no roteiro é a \textbf{3.0.0}, no entanto não esta mais disponível e optei pela versão \textbf{3.2.5}.
 
 
@@ -24,13 +35,24 @@
 \end{figure}
 
 
-\par É realizado uma sequência de passos disponibilizada no roteiro, e em relação ao passo \text{7}, que indica a criação de um arquivo chamado de \textit{application.properties}, já estava criado. com o conteúdo \text{(spring.application.name=demo)}, e então apenas adicionei abaixo o conteúdo indicado no roteiro.
+\par É realizado uma sequência de passos disponibilizada no roteiro, e em relação ao passo \textbf{7}, que indica a criação de um arquivo chamado de \textit{application.properties}, já estava criado. com o conteúdo \textbf{(spring.application.name=demo)}, e então apenas adicionei abaixo o conteúdo indicado no roteiro.
 
 
 
 \section{Resultados}
+\par Após as implementações e alguns problemas, foi prosseguido para os testes, na figura \ref{fig:com} de monsta o resultado da compilação do código em java.
 
+\begin{figure}[H]
+\center
+  \caption{Resultado da compilação do código em Java.}
+  \includegraphics[scale=.45]{figure/resultado da compilação.png}
+  \label{fig:com}
+  \flushleft %esquerda
+    {\fontsize{10pt}{\baselineskip}\selectfont
+    Fonte: O autor (\the\year) }
+\end{figure}
 
+\par Nesta compilação pode-se averiguar o nome para acesso e a porta de escuta, o nome para acesso é \textbf{h2-console}, conforme defenido no \textbf{pom.xml} e a porta de escuta é a \textbf{8082}.
 
 
 \subsection{Erro: novo usuário}
@@ -43,7 +65,7 @@
     {\fontsize{10pt}{\baselineskip}\selectfont  Fonte: O autor (\the\year) }
 \end{figure}
 
-\par Na figura \ref{fig:sugconstrutor}, a IDE monstra o que é esperado pelo construtor.
+\par Na figura \ref{fig:sugconstrutor}, a IDE expõe o que é esperado pelo construtor.
 
 \begin{figure}[H]
   \caption{Argumentos demonstra que o construtor \textit{User} espera.}
@@ -66,7 +88,7 @@
 \section{Conclusões}
 
 
-
+dsfdg
 
   %$X \xLongleftarrow[\text{NATAN}]{\text{OGLIARI}} Y $ %COM TEXTO
 	% $\uparrow$ %Seta para Cima
