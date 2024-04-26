@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1714137711.13646 "main.aux" "main.bbl" "main" 1714137716.26301 0
+["bibtex main"] 1714138895.89801 "main.aux" "main.bbl" "main" 1714139807.46568 0
   "./text/ref.bib" 1714134133 1543 6ab248005f9f0d614841cccf513c4131 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bib/abntex2/abntex2-options.bib" 1543103229 5396 4eb260dac60f150ae608d45252853090 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/bibtex/bst/abntex2/abntex2-alf.bst" 1543103230 60064 0819ac8568f9a482510a46e3a8a6f605 ""
-  "main.aux" 1714137714 3391 afac90d8c411e4ac79a1e60fddb08c96 "pdflatex"
+  "main.aux" 1714139805 4161 df89c355d804ee7b5dc2bfde138ab822 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1714137711.43821 "main.tex" "main.pdf" "main" 1714137716.26375 0
+["pdflatex"] 1714139801.93781 "main.tex" "main.pdf" "main" 1714139807.4663 0
   "C:/Users/AULA-1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712759051 84145 9fc26e7f8cb803b75a82d41f3fb3cd9d ""
   "C:/Users/AULA-1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1684243667 23189211 ab02659d3f7cbf2af15b568c3b990d90 ""
   "C:/Users/AULA-1/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -316,17 +316,20 @@
   "cod/TestConfig.java" 1713879655 744 c034d46116f77596afa3122b69200998 ""
   "cod/errorUser.java" 1713880032 781 a17e5d98bb94c7c7dfc075cdd81d25c1 ""
   "figure/Spring Initializr.pdf" 1713788509 89729 37875595bd1bf521c4a713fe01c01d91 ""
+  "figure/login_nav.png" 1714053515 20634 c5ab39b35c4e466fd7bbfa76e72c6c27 ""
   "figure/logo-png-unopar.png" 1705325076 36548 e9b5242e9db32f6ad65a879f4ac5251b ""
+  "figure/postman_GET.png" 1714050905 116507 de98f7eff5d78e717e46888ccc015cca ""
+  "figure/postman_POST.png" 1714052986 125975 508bc4c54505859b7d8754032a15eb5c ""
   "figure/postman_vscode.png" 1713877485 165201 0cb02596d2b85411c0be21c969d8712b ""
   "figure/resultado da compilação.png" 1714137551 167177 dc283f6bbc45af28b75ad5b7a3e3170c ""
   "figure/user_jaova.png" 1713880498 24470 3cf3c7097795db32db9a21bf7a860887 ""
-  "main.aux" 1714137714 3391 afac90d8c411e4ac79a1e60fddb08c96 "pdflatex"
-  "main.bbl" 1714137711 565 ae03bee61565c0070d8e211cb8b73b25 "bibtex main"
-  "main.out" 1714137714 525 593be3bfe45a802a8154a4c6f9326674 "pdflatex"
+  "main.aux" 1714139805 4161 df89c355d804ee7b5dc2bfde138ab822 "pdflatex"
+  "main.bbl" 1714138896 565 ae03bee61565c0070d8e211cb8b73b25 "bibtex main"
+  "main.out" 1714139805 525 593be3bfe45a802a8154a4c6f9326674 "pdflatex"
   "main.tex" 1714134029 511 97a1edcd3b31dffdf87e30afd5068fff ""
-  "main.toc" 1714137714 411 2171ec9603d10fe43d1e33ab90571d31 "pdflatex"
+  "main.toc" 1714139805 412 9d254541dd1a692a4dd8197b8f52dea1 "pdflatex"
   "structure/report.tex" 1705325076 6579 bb660c29b69ad676bf0d9f3e5bd15d4c ""
-  "text/write.tex" 1714137710 4936 b9653fa69e6e9fc1eebf25e9f28819bf ""
+  "text/write.tex" 1714139801 7050 4cbd7b161ece30edaa1ab3e49324b090 ""
   "your_data.tex" 1706101888 934 5eaa9bdd19bc7f3b4eac28e700bcc4f3 ""
   (generated)
   "main.aux"
